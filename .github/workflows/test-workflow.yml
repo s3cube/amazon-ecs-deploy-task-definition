@@ -3,7 +3,7 @@ on:
     branches:
       - integ-tests
 
-name: Integration Test
+name: Integration Test--run
 
 jobs:
   deploy:
